@@ -1,1 +1,2 @@
-Now on our Panel, Please open a Ticket to Claim
+Add Anti Bunny Hop, 
+Fix some Bugs
