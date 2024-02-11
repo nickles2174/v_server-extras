@@ -1,1 +1,3 @@
-^2New Update^0\n[Description]:\nFixed Some Bugs
+^2New Update^0
+[Description]:
+Fixed Some Bugs
