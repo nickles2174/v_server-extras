@@ -1,2 +1,1 @@
-Add Anti Bunny Hop, 
-Fix some Bugs
+^2New Update^0\n[Description]:\nFixed Some Bugs
